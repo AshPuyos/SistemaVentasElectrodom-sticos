@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un sistema de información diseñado para una casa climatizadora, que permite llevar el control de promociones de calefactores eléctricos y a gas. El sistema está implementado en C# y se centra en la gestión de clientes y proveedores, así como en la adquisición de calefactores.
+Este proyecto es un sistema de información diseñado para una casa de electrodomésticos, que permite llevar el control de promociones de calefactores eléctricos y a gas. El sistema está implementado en C# y se centra en la gestión de clientes y proveedores, así como en la adquisición de calefactores.
 
 Los clientes pueden comprar un calefactor a la vez y obtener descuentos según el tipo de calefactor adquirido: un 25% para los calefactores a gas y un 15% para los eléctricos. La información sobre los calefactores, clientes y proveedores se almacena en una base de datos SQL Server.
 
